@@ -20,3 +20,5 @@ AB transparent epoxy resin 60A + 20B
 1 blood pressure and heart rate cuff                                                                                                                                             
 1 digital ear thermometer                                                                                                                                                       
 
+# Instructions for setup
+Begin by cutting of the ends of the male to male jumper wires and use pliers to cut open the leads and solder 2 wires to the SCL and SDA pins. Since we are attaching a variety of sensors we will need to communicate with the arduino over I2C. This means that the Blood oxygen sensor, pressure sensor and Heart rate sensor will be connected in series with the exception of their power and GND pins. The mini display will be soldered on near the end as it goes on top of a couple of the sensors. 
