@@ -3,6 +3,7 @@
 This wristband is desgined for the elderly where it uses a blood oxygen, heart rate and temperature sensor where when certain parameters are met it has an on board wifi chip and is able to respond to message emergency contacts through the Blynk Platform. It should be noted that the way we masured results throughout the expirement was through the serial monitor and the on board liquid display. However the features to make this system complelty wireless with an esp8266 can be done.
 
 <img width="398" alt="Watch 1" src="https://user-images.githubusercontent.com/81518926/138619350-e9a544b3-ff4f-40b7-9b20-197b7fadc50e.png">
+<img width="430" alt="watch 2" src="https://user-images.githubusercontent.com/81518926/138619389-ef5d9e0f-9fff-4e6b-8337-49d812f45fbe.png">
 
 
 # Materials Needed
